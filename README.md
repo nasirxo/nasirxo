@@ -20,14 +20,14 @@
 
 ### Connect with me :smiley:
 <a href="https://instagram.com/nasir.xoz">
-  <img align="left" alt="Nasir Ali Instagram" width="21px" src="https://github.com/nasirxo/nasirxo/raw/master/instagram.jpg" />
+  <img align="left" alt="Nasir Ali Instagram" width="50px" src="https://github.com/nasirxo/nasirxo/raw/master/instagram.jpg" />
 </a>
 <a href="https://pypi.org/nasirxo">
-  <img align="left" alt="Nasir Ali PyPi.Org" width="21px" src="https://github.com/nasirxo/nasirxo/raw/master/python.jpg" />
+  <img align="left" alt="Nasir Ali PyPi.Org" width="50px" src="https://github.com/nasirxo/nasirxo/raw/master/python.jpg" />
 </a>
 <br/><br/>
 <p align="center">
-<img alt="meme" width="235px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/work.jpeg" />
+<img alt="meme" width="500px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/work.jpeg" />
 </a></p><br/><br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nasirxo/nasirxo)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nasirxo)
