@@ -1,6 +1,12 @@
 
 ## Hey :wave: Devs, 
-
+```
+#include <iostream>
+using namespace std;
+int main(){
+   cout << "Hi i am Nasir Ali";
+ }
+```
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
@@ -29,5 +35,8 @@
 <p align="center">
 <img alt="meme" width="500px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/work.jpeg" />
 </a></p><br/><br/>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=nasirxo&show_icons=true&theme=tokyonight alt=nasirxo /> </p>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nasirxo)
