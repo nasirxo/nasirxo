@@ -4,8 +4,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-   cout << "Hi i am Nasir Ali";
- }
+ cout << "Hi i am Nasir Ali";
+}
 ```
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
