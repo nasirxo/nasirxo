@@ -1,6 +1,6 @@
 
 ## Hey :wave: Devs, 
-```
+```cpp
 #include <iostream>
 using namespace std;
 int main(){
