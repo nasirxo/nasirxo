@@ -40,7 +40,7 @@ int main(){
 
 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?business=nasiralis1731@gmail.com&cmd=_xclick&currency_code=USD&amount=10&item_name=Donate)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?business=nasiralis1731@gmail.com&cmd=_xclick&currency_code=USD&amount=5&item_name=Donate)
 
 
 
