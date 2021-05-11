@@ -39,4 +39,9 @@ int main(){
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=nasirxo&show_icons=true&theme=tokyonight alt=nasirxo /> </p>
 
 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?business=nasiralis1731@gmail.com&cmd=_xclick&currency_code=USD&amount=10&item_name=Donate)
+
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nasirxo)
