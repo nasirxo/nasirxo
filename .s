@@ -1,1 +1,1 @@
-https://quizbank.p
+https://quizbank.pk
