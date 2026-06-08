@@ -1,1 +1,1 @@
-https://quizbank.pk
+https://node.thequbit.pk/
